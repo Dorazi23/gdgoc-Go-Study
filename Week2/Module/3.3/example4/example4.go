@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Week2/Module/MyPrimeNumPackage/example3"
+	"github.com/Week2/Module/3.3/example3"
 	"github.com/labstack/echo/v4"
 )
 
